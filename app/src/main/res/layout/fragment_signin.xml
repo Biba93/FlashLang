@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/auth_fragment_height"
+    android:orientation="vertical"
+    tools:context=".ui.activity.AuthActivity">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="24dp"/>
+
+    <include
+        layout="@layout/email_password_fields"/>
+
+    <Button
+        android:id="@+id/sign_in_button"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_login_bg"
+        android:enabled="true"
+        android:onClick="onClick"
+        android:text="@string/sign_in_button"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/textView_signup"
+        style="@style/AuthLowTextStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="@string/sign_up_text"
+        tools:textColor="@color/colorBlack"/>
+
+</LinearLayout>

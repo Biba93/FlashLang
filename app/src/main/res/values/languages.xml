@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="be">Belarusian</string>
+    <string name="zh">Chinese</string>
+    <string name="cs">Czech</string>
+    <string name="da">Danish</string>
+    <string name="nl">Dutch</string>
+    <string name="en">English</string>
+    <string name="et">Estonian</string>
+    <string name="fi">Finnish</string>
+    <string name="fr">French</string>
+    <string name="de">German</string>
+    <string name="el">Greek</string>
+    <string name="hu">Hungarian</string>
+    <string name="it">Italian</string>
+    <string name="ja">Japanese</string>
+    <string name="ko">Korean</string>
+    <string name="lt">Lithuanian</string>
+    <string name="no">Norwegian</string>
+    <string name="pl">Polish</string>
+    <string name="ru">Russian</string>
+    <string name="sr">Serbian</string>
+    <string name="es">Spanish</string>
+    <string name="sv">Swedish</string>
+    <string name="tr">Turkish</string>
+    <string name="uk">Ukrainian</string>
+</resources>

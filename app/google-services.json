@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073200907691",
+    "firebase_url": "https://flash-lang.firebaseio.com",
+    "project_id": "flash-lang",
+    "storage_bucket": "flash-lang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073200907691:android:0e2f9b655fbe26ec",
+        "android_client_info": {
+          "package_name": "com.github.biba.flashlang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073200907691-vlepm6e8fbp31tkq890ohfi2n94ghq0g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1073200907691-f2vpvna054p9r08vs01evr38a1m018q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.biba.flashlang",
+            "certificate_hash": "765365c2c886559564d4c47f05826192d1bcf291"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Id0wGcmovBLGVm-LL6Kw0CaqfemE3YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073200907691-vlepm6e8fbp31tkq890ohfi2n94ghq0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

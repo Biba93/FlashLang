@@ -1,0 +1,14 @@
+{
+  "data": {
+    "translations": [
+      {
+        "translatedText": "Hallo",
+        "detectedSourceLanguage": "en"
+      },
+      {
+        "translatedText": "Anastasie",
+        "detectedSourceLanguage": "en"
+      }
+    ]
+  }
+}

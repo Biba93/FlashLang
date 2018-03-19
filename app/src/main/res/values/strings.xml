@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FlashLang</string>
+    <string name="sign_up_text">Don\'t have account? Sign up</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="sign_in_text">I have account! Sign in</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="wrong_auth_info_message">Wrong email or password</string>
+    <string name="no_connection_message">No internet connection</string>
+    <string name="no_user_message">Can\'t find user</string>
+    <string name="weak_password_message">Password should be at least 6 characters</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="new_card_added">New card added!</string>
+    <string name="log_out_button_text">I wanna leave this planet</string>
+    <string name="total_connections">Connections</string>
+    <string name="total_words">Words</string>
+    <string name="source_word">Source word</string>
+    <string name="translated_word">Translated word</string>
+    <string name="ok">OK</string>
+    <string name="take_galactic_photo">Take GALACTIC photo</string>
+    <string name="choose_photo_from_home">Choose photo from home</string>
+    <string name="translate">Translate</string>
+    <string name="card_saved_text">Card saved :)</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="let_s_play">Let\'s play</string>
+    <string name="cant_load_data">Can\'t load data :(</string>
+</resources>

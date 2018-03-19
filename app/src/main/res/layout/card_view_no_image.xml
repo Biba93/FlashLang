@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/card_back"
+        layout="@layout/card_view_back"/>
+
+    <FrameLayout
+        android:id="@+id/card_top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:background="@drawable/card_bg">
+
+        <TextView
+            android:id="@+id/source_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:maxLines="4"
+            android:lines="1"
+            android:textColor="@color/colorBeautifulPurple"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            tools:text="Top"/>
+    </FrameLayout>
+
+
+</FrameLayout>

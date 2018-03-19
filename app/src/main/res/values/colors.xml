@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000c09</color>
+    <color name="colorPlatinum">#E5E5E5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDarkTangerine">#FCA311</color>
+    <color name="colorDarkTangerineTransparent95">#F2FCA311</color>
+    <color name="colorBeautifulPurple">#482f77</color>
+    <color name="colorBeautifulPurpleTransparent50">#80482f77</color>
+</resources>
